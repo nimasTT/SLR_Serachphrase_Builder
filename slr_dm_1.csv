@@ -1,0 +1,10 @@
+survey,survey,slr,systematic literatur review
+dm,dialog management,dialouge management,conversational agent,chatbot,embodied conversational agent,embodied agent
+topdown,rulebased,statistical,reinforcement,pomdb
+buttomup,end-to-end,deep learning,deep reinforcement
+hybrid
+high_engaged,non task oriented
+data,data,training data
+intent,intent
+usecase,task oriented,non task oriented
+communication,multi modal

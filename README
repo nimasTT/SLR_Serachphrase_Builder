@@ -1,0 +1,6 @@
+CSV structure:
+CSV structure presents a transposed table. The table is turned to the left. (Titles are on the left and not on top). This makes it easier to keep track of CSV content.
+Each row presents one Word Group.
+The first word in each row is the title and is not included in the calculation. All other words in the line are synonyms or subsets of the title.
+Example:
+dm, dialog management, dialouge management, conversational agent, chatbot, embodied conversational agent, embodied agent
