@@ -33,6 +33,7 @@ def get_transposed_csv():
         searchstring+=strPart
     searchstring= searchstring.rsplit(' ', 2)[0]
     return searchstring
+    
 
 
 print()
