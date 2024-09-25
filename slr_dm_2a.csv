@@ -1,0 +1,10 @@
+survey,survey,slr,systematic literatur review
+dm,dialogue management,conversational agent,dialogue system,chatbot,embodied conversational agent,embodied agent
+topdown,statistical data-driven,reinforcement,pomdb,mdp,markov decision process,dialogue state tracking,dialogue policy
+end-to-end,end-to-end,retrieval,recurrent neural network,long short-term memory,encoder-decoder,deep reinforcement
+hybrid,hybrid
+high_engaged,non task oriented,open-domain
+data,dataset,training data,corpora,sparse data
+intent,intent
+usecase,task oriented,non task oriented
+communication,multi modal,multi-party,turn-taking,changing topic

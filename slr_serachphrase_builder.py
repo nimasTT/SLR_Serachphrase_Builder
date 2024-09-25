@@ -1,7 +1,7 @@
 import csv
 
 #configuration
-csvfilePath=".\slr_dm_1.csv"
+csvfilePath=".\slr_dm_2.csv"
 neededColumnnames=["survey", "dm","topdown","data"]
 
 

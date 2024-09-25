@@ -3,7 +3,7 @@ dm,dialog management,dialouge management,conversational agent,chatbot,embodied c
 topdown,rulebased,statistical,reinforcement,pomdb
 buttomup,end-to-end,deep learning,deep reinforcement
 hybrid
-high_engaged,non task oriented
+high_engaged,non task oriented,Open-domain
 data,data,training data
 intent,intent
 usecase,task oriented,non task oriented
